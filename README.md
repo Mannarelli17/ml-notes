@@ -1,2 +1,2 @@
 # ML notes
-me trying to explain ML
+my notes on ml stuff :p nothing special
